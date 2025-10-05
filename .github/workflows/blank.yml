@@ -23,7 +23,178 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: pedrovergueiro #Seu usuario
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+Retornando na opção Actions do repositório, clique em “Run workflow”:
+
+Repositorio
+
+Pasta dos arquivos:
+Em seu repositorio cliente em main e selecione a branch output:
+output
+
+E aqui estão os arquivos gerados que você pode utilizar como bem entender:
+
+Arquivos
+
+Codigo Github para utilização:
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+profile
+Heroku
+Promoted
+
+Heroku
+
+Save time with this productivity hack.
+See how Heroku MCP Server connects tools like Cursor to Heroku, so you can build, deploy, and manage apps—right from your editor.
+
+Learn More
+
+Read More
+Top comments (0)
+Subscribe
+pic
+Add to the discussion
+Code of Conduct • Report abuse
+profile
+MongoDB
+Promoted
+
+Gen AI apps are built with MongoDB Atlas
+
+Gen AI apps are built with MongoDB Atlas
+MongoDB Atlas is the developer-friendly database for building, scaling, and running gen AI & LLM apps—no separate vector DB needed. Enjoy native vector search, 115+ regions, and flexible document modeling. Build AI faster, all in one place.
+
+Start Free
+
+
+Henrique Lopes
+Follow
+"Não há razão alguma em usar a palavra “impossível” para descrever algo que claramente pode acontecer."
+Joined
+5 de set. de 2021
+Trending on DEV Community 
+Jess Lee profile image
+What was your win this week?
+#weeklyretro #discuss
+Jaideep Parashar profile image
+How I Use AI to Manage Version Control & Git Workflows
+#webdev #github #ai #programming
+Sejal profile image
+How Developers Can Automate GitHub Wins on LinkedIn in 2025
+#webdev #automaton #devops #github
+profile
+The DEV Team
+Promoted
+
+DEV judging image
+
+Want this Badge on Your Profile? Volunteer as a DEV Challenge Judge.
+Earn this Badge: Volunteer as a DEV Challenge Judge
+
+Learn more
+
+
+
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
