@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro L. Vergueiro
+# 💻 Pedro L. Vergueiro | Desenvolvedor Backend Python
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Desenvolvedor Backend | Python | APIs | Sistemas Distribuídos**
+**Especialista em Desenvolvimento Backend | APIs REST | Sistemas Distribuídos | Processamento de Dados**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrovergueiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vergueiro)
@@ -17,90 +17,99 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🎯 Por que me contratar como Desenvolvedor Backend?
 
-Desenvolvedor Backend especializado em **Python**, com experiência em desenvolvimento de **APIs REST**, **sistemas distribuídos** e **processamento de dados**. Focado em criar soluções escaláveis, eficientes e bem arquitetadas.
+Sou um **Desenvolvedor Backend especializado em Python** com experiência comprovada em criar **soluções escaláveis, eficientes e bem arquitetadas**. Meu portfólio demonstra capacidade de desenvolver sistemas enterprise-grade que resolvem problemas reais de negócio.
 
-### 💼 Especialidades
+### 💪 Diferenciais Competitivos
 
-- **Backend Development**: APIs REST com FastAPI, Flask e Django
-- **Banco de Dados**: PostgreSQL, MySQL, SQLAlchemy, ORM
-- **Arquitetura**: Sistemas distribuídos, microserviços, arquitetura modular
-- **Processamento de Dados**: Pandas, NumPy, análise e transformação de dados
-- **DevOps**: CI/CD, Docker, GitHub Actions
-- **Testes**: Pytest, testes automatizados, TDD
-
----
-
-## 🏆 Projetos em Destaque
-
-### 1. [DataOps - Sistema de Gestão Industrial](https://github.com/pedrovergueiro/DataOps) ⭐
-
-Sistema completo de coleta, processamento e análise de dados de produção industrial com arquitetura modular e escalável.
-
-**Tecnologias:** Python | Pandas | PostgreSQL | Arquitetura Modular | APIs
-
-**Features:**
-- ✅ Processamento de dados em tempo real
-- ✅ Sistema de comunicação distribuída
-- ✅ API de gestão de produção
-- ✅ Análise estatística e relatórios
-- ✅ Sistema de autenticação e controle de acesso
+✅ **Arquitetura & Design**: Experiência em sistemas distribuídos, microserviços e arquitetura modular  
+✅ **Performance**: Otimização de APIs e processamento de dados em larga escala  
+✅ **Qualidade**: Código limpo, testado e documentado seguindo melhores práticas  
+✅ **Entrega**: Projetos completos do zero até produção, com APIs REST documentadas  
+✅ **Stack Moderna**: FastAPI, PostgreSQL, SQLAlchemy, Pytest, Docker
 
 ---
 
-### 2. [Task API FastAPI](https://github.com/pedrovergueiro/task-api-fastapi) ⭐
+## 🏆 Projetos em Destaque - Portfólio Técnico
 
-API REST completa com FastAPI implementando CRUD completo, autenticação JWT e testes automatizados.
+### 1. [DataOps - Sistema Enterprise de Gestão Industrial](https://github.com/pedrovergueiro/DataOps) ⭐
 
-**Tecnologias:** Python | FastAPI | PostgreSQL | SQLAlchemy | Pytest | JWT
+**Sistema completo de produção industrial** desenvolvido com arquitetura modular e escalável, processando dados em tempo real de múltiplas máquinas.
 
-**Features:**
-- ✅ CRUD completo de tarefas
-- ✅ Sistema de autenticação JWT
-- ✅ Testes automatizados com Pytest
+**Stack:** Python | Pandas | PostgreSQL | Arquitetura Modular | APIs REST | Multi-threading
+
+**Impacto Técnico:**
+- ✅ Processamento de dados em tempo real com alta performance
+- ✅ Sistema de comunicação distribuída entre múltiplos nós
+- ✅ API REST completa para gestão de produção
+- ✅ Análise estatística e geração de relatórios automatizados
+- ✅ Sistema de autenticação e controle de acesso robusto
+- ✅ Arquitetura modular seguindo princípios SOLID
+
+**Relevância para Backend:** Demonstra capacidade de desenvolver sistemas complexos, processamento assíncrono, integração com bancos de dados e APIs RESTful.
+
+---
+
+### 2. [Task API FastAPI - API REST Completa](https://github.com/pedrovergueiro/task-api-fastapi) ⭐
+
+**API REST production-ready** com FastAPI implementando CRUD completo, autenticação JWT, validação de dados e testes automatizados.
+
+**Stack:** Python | FastAPI | PostgreSQL | SQLAlchemy | Pytest | JWT | Pydantic
+
+**Impacto Técnico:**
+- ✅ CRUD completo com validação de dados robusta
+- ✅ Sistema de autenticação JWT seguro
+- ✅ Testes automatizados com cobertura completa (Pytest)
 - ✅ Documentação automática com Swagger/OpenAPI
 - ✅ Validação de dados com Pydantic
+- ✅ Migrations de banco de dados
+
+**Relevância para Backend:** Demonstra domínio completo de desenvolvimento de APIs REST, autenticação, testes e documentação - habilidades essenciais para qualquer vaga backend.
 
 ---
 
-### 3. [Sentiment Analysis FastAPI](https://github.com/pedrovergueiro/sentiment-analysis-fastapi) ⭐
+### 3. [Sentiment Analysis API - Machine Learning em Produção](https://github.com/pedrovergueiro/sentiment-analysis-fastapi) ⭐
 
-API de análise de sentimentos utilizando Machine Learning e processamento de linguagem natural.
+**API de análise de sentimentos** utilizando Machine Learning integrado com FastAPI para processamento de linguagem natural em tempo real.
 
-**Tecnologias:** Python | FastAPI | Machine Learning | NLP | Text Processing
+**Stack:** Python | FastAPI | Machine Learning | NLP | Text Processing | ML Models
 
-**Features:**
-- ✅ Análise de sentimentos em tempo real
-- ✅ Processamento de texto avançado
-- ✅ Modelos de ML integrados
-- ✅ API REST documentada
+**Impacto Técnico:**
+- ✅ Análise de sentimentos em tempo real com baixa latência
+- ✅ Processamento de texto avançado e otimizado
+- ✅ Modelos de ML integrados em API REST
+- ✅ API documentada e pronta para produção
 - ✅ Suporte a múltiplos idiomas
 
----
-
-### 4. [Feedback System Python SQL](https://github.com/pedrovergueiro/feedback-com-python-e-sql-portifolio) ⭐
-
-Sistema completo de feedback com backend Python e banco de dados SQL para coleta e análise de dados.
-
-**Tecnologias:** Python | SQL | Database | API | Data Processing
-
-**Features:**
-- ✅ Sistema de feedback completo
-- ✅ Integração com banco de dados relacional
-- ✅ API para coleta de dados
-- ✅ Processamento e análise de feedbacks
-- ✅ Relatórios e visualizações
+**Relevância para Backend:** Demonstra capacidade de integrar ML/AI em APIs, processamento de dados complexos e otimização de performance.
 
 ---
 
-## 📊 Estatísticas GitHub
+### 4. [Feedback System - Backend Python & SQL](https://github.com/pedrovergueiro/feedback-com-python-e-sql-portifolio) ⭐
+
+**Sistema completo de feedback** com backend Python e banco de dados SQL para coleta, processamento e análise de dados.
+
+**Stack:** Python | SQL | Database | API | Data Processing | ETL
+
+**Impacto Técnico:**
+- ✅ Sistema completo de coleta e processamento de dados
+- ✅ Integração robusta com banco de dados relacional
+- ✅ API REST para coleta e consulta de dados
+- ✅ Processamento e análise de feedbacks em escala
+- ✅ Relatórios e visualizações de dados
+
+**Relevância para Backend:** Demonstra experiência em ETL, processamento de dados, queries SQL otimizadas e APIs de dados.
+
+---
+
+## 📊 Estatísticas & Atividade
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovergueiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovergueiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovergueiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovergueiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pedrovergueiro&theme=radical&hide_border=true&background=0D1117)
 
@@ -108,33 +117,54 @@ Sistema completo de feedback com backend Python e banco de dados SQL para coleta
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica Completa
 
-### Linguagens
+### Linguagens Principais
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frameworks & Bibliotecas
+### Frameworks & Bibliotecas Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 📈 Contribuições
+## 💼 Habilidades Técnicas Detalhadas
+
+### Backend Development
+- **APIs REST**: Design e desenvolvimento de APIs RESTful escaláveis
+- **Autenticação**: JWT, OAuth2, segurança de APIs
+- **Banco de Dados**: PostgreSQL, MySQL, SQLAlchemy ORM, migrations
+- **Arquitetura**: Microserviços, sistemas distribuídos, arquitetura modular
+- **Performance**: Otimização de queries, cache, processamento assíncrono
+
+### Processamento de Dados
+- **ETL**: Extração, transformação e carga de dados
+- **Análise**: Pandas, NumPy, análise estatística
+- **APIs de Dados**: Desenvolvimento de APIs para processamento de dados
+
+### Qualidade & Testes
+- **Testes**: Pytest, testes unitários e de integração
+- **Documentação**: Swagger/OpenAPI, docstrings
+- **Code Quality**: Código limpo, SOLID, design patterns
+
+---
+
+## 📈 Contribuições & Atividade
 
 <div align="center">
 
@@ -144,17 +174,21 @@ Sistema completo de feedback com backend Python e banco de dados SQL para coleta
 
 ---
 
-## 🎯 Objetivos Profissionais
+## 🎯 Objetivo Profissional
 
-Busco oportunidades como **Desenvolvedor Backend** onde possa aplicar minhas habilidades em:
-- Desenvolvimento de APIs RESTful escaláveis
-- Arquitetura de sistemas distribuídos
-- Processamento e análise de dados
-- Otimização de performance e escalabilidade
+Busco uma **oportunidade como Desenvolvedor Backend** onde possa aplicar e expandir minhas habilidades técnicas, contribuindo para o desenvolvimento de soluções inovadoras e escaláveis. Estou preparado para:
+
+- Desenvolver APIs RESTful de alta performance
+- Projetar e implementar arquiteturas escaláveis
+- Otimizar sistemas existentes para melhor performance
+- Trabalhar em equipe seguindo boas práticas de desenvolvimento
+- Entregar código de qualidade, testado e documentado
 
 ---
 
-## 📧 Contato
+## 📧 Vamos Conversar?
+
+Estou aberto a oportunidades e sempre disponível para discutir projetos interessantes.
 
 - 📧 **Email:** pedrolv.fsilva@gmail.com
 - 💼 **LinkedIn:** [Pedro L. Vergueiro](https://www.linkedin.com/in/pedro-vergueiro)
@@ -164,7 +198,9 @@ Busco oportunidades como **Desenvolvedor Backend** onde possa aplicar minhas hab
 
 <div align="center">
 
-**⭐ Se algum projeto foi útil, considere dar uma estrela! ⭐**
+**⭐ Explore meus projetos e veja código de qualidade em ação! ⭐**
+
+*Desenvolvendo soluções backend que fazem a diferença*
 
 Made with ❤️ by Pedro L. Vergueiro
 
