@@ -1,13 +1,13 @@
-# 💻 Pedro L. Vergueiro | Desenvolvedor Backend Python
+# 🤖 Pedro Lucas Vergueiro | AI Engineer & Backend Developer
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Developer-6DB33F?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Especialista em Desenvolvimento Backend | APIs REST | Sistemas Distribuídos | Processamento de Dados**
+**Engenheiro de IA & ML | NLP | Deep Learning | Backend Python | Data Science**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrovergueiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vergueiro)
@@ -17,89 +17,91 @@
 
 ---
 
-## 🎯 Por que me contratar como Desenvolvedor Backend?
+## 🎯 Por que me contratar como AI Engineer?
 
-Sou um **Desenvolvedor Backend especializado em Python** com experiência comprovada em criar **soluções escaláveis, eficientes e bem arquitetadas**. Meu portfólio demonstra capacidade de desenvolver sistemas enterprise-grade que resolvem problemas reais de negócio.
+Sou **estudante de Engenharia de Software** com foco em **Inteligência Artificial, Machine Learning e Backend Development**. Combino conhecimento sólido em desenvolvimento backend com expertise em IA para criar **soluções inteligentes, escaláveis e orientadas a dados** que geram valor real para o negócio.
 
 ### 💪 Diferenciais Competitivos
 
-✅ **Arquitetura & Design**: Experiência em sistemas distribuídos, microserviços e arquitetura modular  
-✅ **Performance**: Otimização de APIs e processamento de dados em larga escala  
-✅ **Qualidade**: Código limpo, testado e documentado seguindo melhores práticas  
-✅ **Entrega**: Projetos completos do zero até produção, com APIs REST documentadas  
-✅ **Stack Moderna**: FastAPI, PostgreSQL, SQLAlchemy, Pytest, Docker
+✅ **AI & Machine Learning**: Desenvolvimento de modelos de ML/DL, NLP e análise preditiva  
+✅ **Backend Robusto**: APIs REST escaláveis com FastAPI/Flask integradas a modelos de IA  
+✅ **Ciência de Dados**: Processamento, análise e visualização de dados em larga escala  
+✅ **Produção**: Projetos completos de IA do treinamento até deploy em produção  
+✅ **Stack Moderna**: PyTorch, TensorFlow, FastAPI, PostgreSQL, Docker, Pandas, Scikit-learn
 
 ---
 
-## 🏆 Projetos em Destaque - Portfólio Técnico
+## 🏆 Projetos em Destaque - Portfólio de IA & ML
 
-### 1. [DataOps - Sistema Enterprise de Gestão Industrial](https://github.com/pedrovergueiro/DataOps) ⭐
+### 1. 🧠 [Sentiment Analysis API - NLP em Produção](https://github.com/pedrovergueiro/sentiment-analysis-fastapi) ⭐⭐⭐
 
-**Sistema completo de produção industrial** desenvolvido com arquitetura modular e escalável, processando dados em tempo real de múltiplas máquinas.
+**Sistema de análise de sentimentos** com Machine Learning e NLP integrado em API REST de alta performance para processamento de linguagem natural em tempo real.
 
-**Stack:** Python | Pandas | PostgreSQL | Arquitetura Modular | APIs REST | Multi-threading
+**Stack:** Python | FastAPI | NLP | Machine Learning | Text Processing | Transformers | API REST
 
-**Impacto Técnico:**
-- ✅ Processamento de dados em tempo real com alta performance
-- ✅ Sistema de comunicação distribuída entre múltiplos nós
-- ✅ API REST completa para gestão de produção
-- ✅ Análise estatística e geração de relatórios automatizados
-- ✅ Sistema de autenticação e controle de acesso robusto
-- ✅ Arquitetura modular seguindo princípios SOLID
+**Impacto Técnico & IA:**
+- 🎯 **NLP Avançado**: Análise de sentimentos com modelos de linguagem natural
+- 🚀 **Baixa Latência**: Processamento de texto em tempo real (<100ms)
+- 🤖 **ML em Produção**: Modelos de Machine Learning servidos via API REST
+- 📊 **Análise Semântica**: Extração de insights e classificação de emoções
+- 🌐 **Multilíngue**: Suporte a processamento em múltiplos idiomas
+- 📈 **Escalável**: Arquitetura preparada para alto volume de requisições
 
-**Relevância para Backend:** Demonstra capacidade de desenvolver sistemas complexos, processamento assíncrono, integração com bancos de dados e APIs RESTful.
-
----
-
-### 2. [Task API FastAPI - API REST Completa](https://github.com/pedrovergueiro/task-api-fastapi) ⭐
-
-**API REST production-ready** com FastAPI implementando CRUD completo, autenticação JWT, validação de dados e testes automatizados.
-
-**Stack:** Python | FastAPI | PostgreSQL | SQLAlchemy | Pytest | JWT | Pydantic
-
-**Impacto Técnico:**
-- ✅ CRUD completo com validação de dados robusta
-- ✅ Sistema de autenticação JWT seguro
-- ✅ Testes automatizados com cobertura completa (Pytest)
-- ✅ Documentação automática com Swagger/OpenAPI
-- ✅ Validação de dados com Pydantic
-- ✅ Migrations de banco de dados
-
-**Relevância para Backend:** Demonstra domínio completo de desenvolvimento de APIs REST, autenticação, testes e documentação - habilidades essenciais para qualquer vaga backend.
+**Por que este projeto importa:** Demonstra capacidade de colocar modelos de NLP em produção, integrando IA com backend robusto - habilidade crítica para empresas que trabalham com dados textuais e análise de sentimentos.
 
 ---
 
-### 3. [Sentiment Analysis API - Machine Learning em Produção](https://github.com/pedrovergueiro/sentiment-analysis-fastapi) ⭐
+### 2. 📊 [DataOps - Sistema de Análise de Dados Industrial](https://github.com/pedrovergueiro/DataOps) ⭐⭐⭐
 
-**API de análise de sentimentos** utilizando Machine Learning integrado com FastAPI para processamento de linguagem natural em tempo real.
+**Plataforma completa de Data Science** para processamento, análise e visualização de dados industriais em tempo real com machine learning para detecção de anomalias.
 
-**Stack:** Python | FastAPI | Machine Learning | NLP | Text Processing | ML Models
+**Stack:** Python | Pandas | NumPy | PostgreSQL | Data Analysis | Statistical Modeling | APIs REST
 
-**Impacto Técnico:**
-- ✅ Análise de sentimentos em tempo real com baixa latência
-- ✅ Processamento de texto avançado e otimizado
-- ✅ Modelos de ML integrados em API REST
-- ✅ API documentada e pronta para produção
-- ✅ Suporte a múltiplos idiomas
+**Impacto Técnico & Data Science:**
+- 📈 **Análise Estatística**: Processamento e análise de grandes volumes de dados
+- 🔍 **Feature Engineering**: Extração e transformação de features para ML
+- ⚡ **Real-time Processing**: Pipeline de dados em tempo real com multi-threading
+- 📊 **Data Visualization**: Dashboards e relatórios automatizados
+- 🤖 **Anomaly Detection**: Detecção de padrões anormais em dados de produção
+- 🏗️ **Arquitetura Modular**: Sistema distribuído seguindo princípios SOLID
 
-**Relevância para Backend:** Demonstra capacidade de integrar ML/AI em APIs, processamento de dados complexos e otimização de performance.
+**Por que este projeto importa:** Demonstra expertise em engenharia de dados, análise estatística e capacidade de construir pipelines de dados robustos - essencial para projetos de IA que dependem de dados de qualidade.
 
 ---
 
-### 4. [Feedback System - Backend Python & SQL](https://github.com/pedrovergueiro/feedback-com-python-e-sql-portifolio) ⭐
+### 3. 🔐 [Task API FastAPI - Backend ML-Ready](https://github.com/pedrovergueiro/task-api-fastapi) ⭐⭐
 
-**Sistema completo de feedback** com backend Python e banco de dados SQL para coleta, processamento e análise de dados.
+**API REST production-ready** com arquitetura preparada para integração de modelos de ML, incluindo autenticação, validação e testes completos.
 
-**Stack:** Python | SQL | Database | API | Data Processing | ETL
+**Stack:** Python | FastAPI | PostgreSQL | SQLAlchemy | Pytest | JWT | Pydantic | Docker
 
-**Impacto Técnico:**
-- ✅ Sistema completo de coleta e processamento de dados
-- ✅ Integração robusta com banco de dados relacional
-- ✅ API REST para coleta e consulta de dados
-- ✅ Processamento e análise de feedbacks em escala
-- ✅ Relatórios e visualizações de dados
+**Impacto Técnico & Backend:**
+- 🔐 **Autenticação Segura**: Sistema JWT para proteção de endpoints de ML
+- ✅ **Validação Robusta**: Pydantic para validação de dados de entrada/saída de modelos
+- 🧪 **Testes Automatizados**: Cobertura completa com Pytest (essencial para ML Ops)
+- 📚 **Documentação OpenAPI**: Swagger automático para APIs de ML
+- 🐳 **Containerização**: Docker para deploy consistente de modelos
+- 🏗️ **Arquitetura Escalável**: Base sólida para servir modelos de IA
 
-**Relevância para Backend:** Demonstra experiência em ETL, processamento de dados, queries SQL otimizadas e APIs de dados.
+**Por que este projeto importa:** Demonstra conhecimento de backend necessário para colocar modelos de IA em produção de forma segura, testada e escalável - diferencial competitivo no mercado de ML Engineering.
+
+---
+
+### 4. 💬 [Feedback System - Data Pipeline & Analytics](https://github.com/pedrovergueiro/feedback-com-python-e-sql-portifolio) ⭐⭐
+
+**Sistema de coleta e análise de dados** com pipeline ETL completo, processamento de texto e análise de dados para geração de insights.
+
+**Stack:** Python | SQL | Pandas | Data Processing | ETL | Text Analytics | API REST
+
+**Impacto Técnico & Data Engineering:**
+- 🔄 **ETL Pipeline**: Extração, transformação e carga de dados estruturados
+- 📊 **Data Analytics**: Análise exploratória e geração de insights
+- 💾 **Database Design**: Modelagem e otimização de queries SQL
+- 📝 **Text Processing**: Pré-processamento de dados textuais para análise
+- 📈 **Reporting**: Geração automatizada de relatórios e métricas
+- 🔌 **API de Dados**: Endpoints REST para consumo de dados processados
+
+**Por que este projeto importa:** Demonstra habilidades em engenharia de dados e ETL - fundamentais para preparar dados que alimentam modelos de Machine Learning e sistemas de IA.
 
 ---
 
@@ -117,25 +119,49 @@ Sou um **Desenvolvedor Backend especializado em Python** com experiência compro
 
 ---
 
-## 🛠️ Stack Tecnológica Completa
+## 🛠️ Stack Tecnológica - AI & Backend
 
-### Linguagens Principais
+### 🤖 Inteligência Artificial & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🗣️ Natural Language Processing (NLP)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![TextBlob](https://img.shields.io/badge/TextBlob-2C5F2D?style=flat-square)
+
+### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frameworks & Bibliotecas Backend
+### 🚀 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-### Banco de Dados
+### 💾 Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### DevOps & Ferramentas
+### 🎨 Frontend (Básico)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🛠️ DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -143,24 +169,48 @@ Sou um **Desenvolvedor Backend especializado em Python** com experiência compro
 
 ---
 
-## 💼 Habilidades Técnicas Detalhadas
+## 💼 Habilidades Técnicas - AI Engineering & Backend
 
-### Backend Development
-- **APIs REST**: Design e desenvolvimento de APIs RESTful escaláveis
-- **Autenticação**: JWT, OAuth2, segurança de APIs
-- **Banco de Dados**: PostgreSQL, MySQL, SQLAlchemy ORM, migrations
-- **Arquitetura**: Microserviços, sistemas distribuídos, arquitetura modular
-- **Performance**: Otimização de queries, cache, processamento assíncrono
+### 🤖 Machine Learning & Deep Learning
+- **Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn
+- **Modelos**: Redes Neurais, CNN, RNN, LSTM, Transformers
+- **Treinamento**: Feature engineering, hyperparameter tuning, model optimization
+- **Avaliação**: Métricas de performance, validação cruzada, análise de resultados
+- **Deploy**: Servir modelos via API REST, containerização com Docker
 
-### Processamento de Dados
-- **ETL**: Extração, transformação e carga de dados
-- **Análise**: Pandas, NumPy, análise estatística
-- **APIs de Dados**: Desenvolvimento de APIs para processamento de dados
+### 🗣️ Natural Language Processing (NLP)
+- **Processamento de Texto**: Tokenização, stemming, lemmatização, normalização
+- **Análise de Sentimentos**: Classificação de emoções e polaridade
+- **Modelos de Linguagem**: BERT, GPT, Transformers, Word Embeddings
+- **Bibliotecas**: NLTK, spaCy, Hugging Face Transformers, TextBlob
+- **Aplicações**: Chatbots, análise de texto, extração de informações
 
-### Qualidade & Testes
-- **Testes**: Pytest, testes unitários e de integração
-- **Documentação**: Swagger/OpenAPI, docstrings
-- **Code Quality**: Código limpo, SOLID, design patterns
+### 📊 Data Science & Analytics
+- **Análise Exploratória**: Pandas, NumPy, visualização com Matplotlib/Seaborn
+- **Estatística**: Análise estatística, testes de hipóteses, correlações
+- **Feature Engineering**: Criação e seleção de features para modelos de ML
+- **Data Cleaning**: Tratamento de dados faltantes, outliers, normalização
+- **Big Data**: Processamento de grandes volumes de dados
+
+### 🚀 Backend Development & ML Ops
+- **APIs REST**: FastAPI, Flask, Django para servir modelos de ML
+- **Autenticação**: JWT, OAuth2, segurança de endpoints
+- **Banco de Dados**: PostgreSQL, MySQL, SQLAlchemy ORM
+- **Arquitetura**: Microserviços, sistemas distribuídos, design patterns
+- **Performance**: Otimização de inferência, cache, processamento assíncrono
+- **Containerização**: Docker para deploy de modelos em produção
+
+### 🔬 Engenharia de Dados
+- **ETL Pipelines**: Extração, transformação e carga de dados
+- **Data Warehousing**: Modelagem dimensional, otimização de queries
+- **APIs de Dados**: Desenvolvimento de endpoints para consumo de dados
+- **Real-time Processing**: Streaming de dados, processamento em tempo real
+
+### ✅ Qualidade & Boas Práticas
+- **Testes**: Pytest, testes unitários e de integração para modelos de ML
+- **Versionamento**: Git, controle de versão de modelos e datasets
+- **Documentação**: Swagger/OpenAPI, docstrings, notebooks explicativos
+- **Code Quality**: Clean code, SOLID, design patterns, code review
 
 ---
 
@@ -176,32 +226,83 @@ Sou um **Desenvolvedor Backend especializado em Python** com experiência compro
 
 ## 🎯 Objetivo Profissional
 
-Busco uma **oportunidade como Desenvolvedor Backend** onde possa aplicar e expandir minhas habilidades técnicas, contribuindo para o desenvolvimento de soluções inovadoras e escaláveis. Estou preparado para:
+Busco uma **oportunidade como AI Engineer, ML Engineer ou Backend Developer** focado em Inteligência Artificial, onde possa aplicar e expandir minhas habilidades em Machine Learning, NLP e desenvolvimento backend. Como estudante de Engenharia de Software, estou preparado para:
 
-- Desenvolver APIs RESTful de alta performance
-- Projetar e implementar arquiteturas escaláveis
-- Otimizar sistemas existentes para melhor performance
-- Trabalhar em equipe seguindo boas práticas de desenvolvimento
-- Entregar código de qualidade, testado e documentado
+### 🚀 O que posso entregar para sua empresa:
+
+- 🤖 **Desenvolver e deployar modelos de ML/DL** em produção com APIs escaláveis
+- 🗣️ **Implementar soluções de NLP** para análise de texto, sentimentos e processamento de linguagem
+- 📊 **Construir pipelines de dados** robustos para alimentar sistemas de IA
+- 🔧 **Criar APIs REST de alta performance** integrando modelos de Machine Learning
+- 📈 **Realizar análise de dados** e feature engineering para otimizar modelos
+- 🐳 **Containerizar e deployar** soluções de IA com Docker
+- ✅ **Entregar código de qualidade**, testado, documentado e seguindo melhores práticas
+
+### 💡 Diferenciais que trago:
+
+- **Visão de Engenharia**: Não apenas treino modelos, mas construo sistemas completos de IA em produção
+- **Backend Sólido**: Sei como servir modelos de forma segura, escalável e eficiente
+- **Aprendizado Rápido**: Estudante ativo, sempre atualizando conhecimentos em novas tecnologias de IA
+- **Portfólio Prático**: Projetos reais demonstrando capacidade de entregar soluções end-to-end
+- **Comunicação**: Capaz de traduzir conceitos técnicos de IA para stakeholders não-técnicos
+
+---
+
+## � Foromação Acadêmica
+
+🎓 **Engenharia de Software** (em andamento)  
+Focado em Inteligência Artificial, Machine Learning e Desenvolvimento Backend
+
+---
+
+## 🌟 Por que me escolher?
+
+### Para Recrutadores e Empresas:
+
+**Você está procurando alguém que:**
+- ✅ Entende tanto de **IA/ML quanto de engenharia de software**?
+- ✅ Consegue **colocar modelos em produção**, não apenas treinar no Jupyter?
+- ✅ Tem **portfólio real** demonstrando capacidade técnica?
+- ✅ É **proativo, aprende rápido** e está sempre atualizado?
+- ✅ Entrega **código limpo, testado e documentado**?
+
+**Então você encontrou a pessoa certa!** 🎯
+
+Meus projetos no GitHub demonstram que não sou apenas um estudante teórico - sou um desenvolvedor que entrega soluções completas, do treinamento do modelo até a API em produção. Combino conhecimento acadêmico com habilidades práticas de engenharia.
+
+### 💼 Áreas de Interesse:
+
+- 🤖 **AI/ML Engineering** - Desenvolvimento e deploy de modelos
+- 🗣️ **NLP Engineering** - Processamento de linguagem natural
+- 📊 **Data Science** - Análise e modelagem de dados
+- 🚀 **Backend Development** - APIs e sistemas escaláveis
+- 🔬 **ML Ops** - Operacionalização de modelos de ML
 
 ---
 
 ## 📧 Vamos Conversar?
 
-Estou aberto a oportunidades e sempre disponível para discutir projetos interessantes.
+Estou **aberto a oportunidades** de estágio, júnior ou projetos freelance em IA e Backend. Vamos construir algo incrível juntos!
 
 - 📧 **Email:** pedrolv.fsilva@gmail.com
-- 💼 **LinkedIn:** [Pedro L. Vergueiro](https://www.linkedin.com/in/pedro-vergueiro)
+- 💼 **LinkedIn:** [Pedro Vergueiro](https://www.linkedin.com/in/pedro-vergueiro)
 - 🌐 **GitHub:** [@pedrovergueiro](https://github.com/pedrovergueiro)
+- 📱 **Disponível para:** Entrevistas, conversas técnicas e discussões sobre projetos
 
 ---
 
 <div align="center">
 
-**⭐ Explore meus projetos e veja código de qualidade em ação! ⭐**
+### ⭐ Explore meus projetos e veja IA em ação! ⭐
 
-*Desenvolvendo soluções backend que fazem a diferença*
+**"Transformando dados em inteligência, código em soluções"**
 
-Made with ❤️ by Pedro L. Vergueiro
+*Desenvolvendo o futuro da IA, um modelo por vez* 🤖
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/pedrovergueiro/count.svg)
+
+Made with 🧠 and ❤️ by Pedro Lucas Vergueiro
 
 </div>
