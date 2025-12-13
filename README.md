@@ -21,7 +21,7 @@
 
 Sou **estudante de Engenharia de Software (2º período)** apaixonado por **Inteligência Artificial, Machine Learning e Backend Development**. Estou em constante aprendizado e desenvolvimento, construindo projetos práticos para solidificar meus conhecimentos e demonstrar minhas habilidades.
 
-### � Nífvel de Conhecimento Atual
+### � Nivel de Conhecimento Atual
 
 ✅ **Python**: Intermediário - Desenvolvimento de APIs, análise de dados e scripts  
 ✅ **Machine Learning & NLP**: Estudando - Implementando projetos práticos com modelos de ML  
