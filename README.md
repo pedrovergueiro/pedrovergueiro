@@ -39,6 +39,7 @@ me.say_hi()
 
 ### Frameworks & Bibliotecas
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -67,6 +68,14 @@ me.say_hi()
 
 **Tecnologias:** Python, Scikit-learn, Pandas, TF-IDF  
 **Aprendizado:** Machine Learning, sistemas de recomendação e Content-Based Filtering
+
+---
+
+### 🏪 [Sistema de Cadastro de Produtos](https://github.com/pedrovergueiro/sistema-de-cadastro-portifolio)
+> Sistema web completo para cadastro e gerenciamento de produtos
+
+**Tecnologias:** Python, Flask, SQLite, HTML/CSS  
+**Aprendizado:** Desenvolvimento web full-stack, sistemas CRUD e arquitetura MVC
 
 ---
 
