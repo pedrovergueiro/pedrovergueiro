@@ -40,6 +40,7 @@ me.say_hi()
 ### Frameworks & Bibliotecas
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,11 +62,11 @@ me.say_hi()
 
 ---
 
-### 📊 [DATAOPS Portfolio](https://github.com/pedrovergueiro/DATAOPS-portifolio)
-> Exercícios de manipulação e visualização de dados
+### 🎬 [Sistema de Recomendação de Filmes](https://github.com/pedrovergueiro/recomendador-filmes-ml)
+> Sistema de ML para recomendação de filmes usando algoritmos de similaridade
 
-**Tecnologias:** Python, Pandas, SQL  
-**Aprendizado:** Análise exploratória de dados
+**Tecnologias:** Python, Scikit-learn, Pandas, TF-IDF  
+**Aprendizado:** Machine Learning, sistemas de recomendação e Content-Based Filtering
 
 ---
 
